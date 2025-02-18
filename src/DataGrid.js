@@ -494,8 +494,8 @@ const DataGrid1 = () => {
     <Paper
       elevation={12}
       sx={{
-        padding: 3,
-        borderRadius: 8,
+        padding: 2,
+        borderRadius: 0,
 
         boxShadow: "0px 10px 40px rgba(0, 0, 0, 0.1)",
         transition: "all 0.3s ease-in-out", // Smooth Paper hover

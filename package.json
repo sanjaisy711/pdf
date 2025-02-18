@@ -8,6 +8,7 @@
     "@mui/icons-material": "^6.4.4",
     "@mui/material": "^6.4.4",
     "@mui/x-data-grid": "^7.27.0",
+    "@mui/x-data-grid-pro": "^7.27.0",
     "ag-grid-community": "^33.1.0",
     "ag-grid-react": "^33.1.0",
     "axios": "^1.7.9",
