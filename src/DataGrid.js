@@ -540,7 +540,7 @@ const DataGrid1 = () => {
           onClick={printTable}
           sx={{ mb: 2 }}
         >
-          🖨 Print Tablaage
+          🖨 Printghfh Tablaage
         </Button>
 
         <DataGrid
